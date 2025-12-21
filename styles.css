@@ -76,7 +76,7 @@ header h1 {
 .service-card {
     background: white;
     padding: 2rem;
-    border-radius: 8px;
+    border-radius: 8px 0;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     transition: transform 0.3s ease;
 }
